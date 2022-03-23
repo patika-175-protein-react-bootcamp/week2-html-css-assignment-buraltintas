@@ -4,4 +4,4 @@ Marvel Page Homework
 
 Live: https://marvel-by-burak.netlify.app/
 
-![Alt text](/assets/screenshot.png?raw=true "Optional Title")
+![Alt text](/assets/newScreenshot.png?raw=true "Optional Title")
